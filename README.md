@@ -1,2 +1,1 @@
-# __AGENT__
-Template repo for 諸子 agents
+# Template Workspace for Archival Spirits 言靈使們的工作區模板
